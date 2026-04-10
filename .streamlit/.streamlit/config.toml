@@ -1,0 +1,5 @@
+{
+  "code" : "[theme]\nbase = \"dark\"\nbackgroundColor = \"#0d0d0f\"\nsecondaryBackgroundColor = \"#17171c\"\nprimaryColor = \"#c8f548\"\ntextColor = \"#e8e8f0\"\n\n[server]\nmaxUploadSize = 500\n",
+  "filename" : "\/mnt\/user-data\/outputs\/.streamlit\/config.toml",
+  "language" : "plaintext"
+}
