@@ -1,0 +1,5 @@
+{
+  "code" : "streamlit>=1.32.0\nmutagen>=1.47.0\n",
+  "filename" : "\/mnt\/user-data\/outputs\/requirements.txt",
+  "language" : "plaintext"
+}
